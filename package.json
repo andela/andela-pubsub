@@ -25,6 +25,7 @@
     "@google-cloud/pubsub": "^0.13.0",
     "epic_logger": "github:andela/epic-logger-node#^v1.0.11",
     "pushid": "^1.0.0",
-    "verror": "^1.10.0"
+    "verror": "^1.10.0",
+    "grpc": "~1.6.0"
   }
 }
